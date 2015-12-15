@@ -1,0 +1,6 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\DisconnectedDataAccess_Ado\DisconnectedDataAccess_Ado\bin\DisconnectedDataAccess_Ado.dll.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\DisconnectedDataAccess_Ado\DisconnectedDataAccess_Ado\bin\DisconnectedDataAccess_Ado.dll
+c:\users\faithnielsen\documents\visual studio 2013\Projects\DisconnectedDataAccess_Ado\DisconnectedDataAccess_Ado\bin\DisconnectedDataAccess_Ado.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\DisconnectedDataAccess_Ado\DisconnectedDataAccess_Ado\obj\Debug\DisconnectedDataAccess_Ado.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\DisconnectedDataAccess_Ado\DisconnectedDataAccess_Ado\obj\Debug\DisconnectedDataAccess_Ado.dll
+c:\users\faithnielsen\documents\visual studio 2013\Projects\DisconnectedDataAccess_Ado\DisconnectedDataAccess_Ado\obj\Debug\DisconnectedDataAccess_Ado.pdb
